@@ -20,3 +20,7 @@ You should instead install and use `django-rest-formly`.
 Install through bower:
 
         bower install angular-formly-rest
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/benzid-wael/angular-formly-rest/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
